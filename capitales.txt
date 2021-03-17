@@ -2,10 +2,5 @@ Buenos Aires.
 Brasilia.
 La Paz.
 Asuncion.
-<<<<<<< HEAD
-Montevideo.
-=======
-Bogotá
 Montevideo
-No me saquen
->>>>>>> 61275202aa834c9a7c1c35c8780077a00c06199c
+Bogotá
