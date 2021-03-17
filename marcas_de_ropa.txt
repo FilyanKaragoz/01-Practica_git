@@ -4,7 +4,9 @@ Chanel,
 Versace, 
 Prada, 
 Christian Dior, 
-Valentino, 
+Valentino, jjj
+
+
 Carolina Herrera, 
 Marc Jacobs, 
 Givenchy, 
