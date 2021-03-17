@@ -2,8 +2,6 @@ Buenos Aires.
 Brasilia.
 La Paz.
 Asuncion.
-<<<<<<< HEAD
 Bogotá
-=======
 Montevideo
->>>>>>> 209bd87d621fcee9f43bca40b534973d5d64571e
+No me saquen
