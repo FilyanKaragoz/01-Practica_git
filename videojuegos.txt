@@ -1,4 +1,5 @@
-counter strike
-buscaminas
-tetris
-fornite
+Counter Strike.
+Fifa.
+Tetris.
+Nba.
+Worms.
