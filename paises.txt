@@ -3,3 +3,8 @@ Txt sobre Paises
 Colombia
 Argentina
 Perú
+
+Contenido Extra
+----------------
+Bolivia
+Chile
